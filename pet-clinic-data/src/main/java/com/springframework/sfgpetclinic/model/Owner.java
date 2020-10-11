@@ -9,7 +9,6 @@ public class Owner extends Person{
     private String telephone;
     private Set<Pet> pets;
 
-    // comment
     public Set<Pet> getPets() {
         return pets;
     }
